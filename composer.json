@@ -32,17 +32,17 @@
     "issues": "https://github.com/iPublikuj/visual-paginator/issues"
   },
   "require": {
-    "php": "^7.2",
-    "nette/application": "^3.0",
-    "nette/di": "^3.0",
-    "nette/utils": "^3.0",
-    "latte/latte": "^2.5"
+    "php": ">= 8.2",
+    "nette/application": "^3.1",
+    "nette/di": "^3.1",
+    "nette/utils": "^4.0",
+    "latte/latte": "^3.0"
   },
   "require-dev": {
-    "nette/bootstrap": "^3.0",
-    "nette/forms": "^3.0",
-    "nette/tester": "^2.2",
-    "tracy/tracy": "^2.6",
+    "nette/bootstrap": "^3.2",
+    "nette/forms": "^3.1",
+    "nette/tester": "^2.4",
+    "tracy/tracy": "^2.9",
     "janmarek/mockista": "^1.1"
   },
   "autoload": {
